@@ -12,7 +12,7 @@ background: rgb(7, 88, 240);
 
 /* navigation menu */
 nav {
-    background: rgb(239, 80, 41);
+    background: rgb(255, 73, 67);
     margin: 0 auto;
     display: flex;
     padding: 10px;
@@ -22,7 +22,7 @@ nav {
 h1 {
     display: flex;
     align-items: center;
-    color: white;
+    color: #000000;
     flex: 1;
     margin: 0;
 }
@@ -46,7 +46,7 @@ a {
 
 /* main container area beneath menu */
 main {
-    background: rgb(114, 255, 220);
+    background: rgb(68, 238, 250);
     display: flex;
     margin-top: 20px;
 }
